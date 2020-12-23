@@ -1,0 +1,2 @@
+# output
+Terraform output example
